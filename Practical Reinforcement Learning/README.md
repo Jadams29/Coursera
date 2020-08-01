@@ -1,8 +1,9 @@
 # Machine Learning
 by Pavel Shvechikov and Alexander Panin, National Research University Higher School of Economics,
+
 [Coursera](https://www.coursera.org/learn/practical-rl/home/info)
 
-### Week 1
+# Week 1
 #### Welcome
 - [ ] Videos: Intro: Why should I care?
 - [ ] Videos: Reinforcement Learning vs All
@@ -30,7 +31,7 @@ by Pavel Shvechikov and Alexander Panin, National Research University Higher Sch
 - [ ] Videos: Blackbox Optimization: Drawbacks
 
 
-### Week 2
+# Week 2
 #### Striving For Reward
 - [ ] Videos: Reward Design
 - [ ] Readings: Optional: Reward Discounting from a Mathematical Perspective
@@ -49,7 +50,7 @@ by Pavel Shvechikov and Alexander Panin, National Research University Higher Sch
 - [ ] Assignment: Value Iteration
 
 
-### Week 3
+# Week 3
 #### Model-Free Learning
 - [ ] Videos: Model-based vs Model-Free
 - [ ] Videos: Monte-Carlo & Temporal Difference, Q-Learning
@@ -67,7 +68,7 @@ by Pavel Shvechikov and Alexander Panin, National Research University Higher Sch
 - [ ] Readings: Extras
 
 
-### Week 4
+# Week 4
 #### Limitations of Tabular Methods
 - [ ] Videos: Supervised & Reinforcement Learning
 - [ ] Quiz: TD vs MC
@@ -90,7 +91,7 @@ by Pavel Shvechikov and Alexander Panin, National Research University Higher Sch
 - [ ] Videos: Partial Observability
 - [ ] Readings: DQN's Follow-Ups
 
-### Week 5
+# Week 5
 #### Policy-Based RL vs Value-Based RL
 - [ ] Videos: Intuition
 - [ ] Videos: All Kinds of Policies
@@ -111,7 +112,7 @@ by Pavel Shvechikov and Alexander Panin, National Research University Higher Sch
 - [ ] Readings: Stability of Policy-Based vs Value-Based Methods
 - [ ] Readings: Extras
 
-### Week 6
+# Week 6
 #### Measuring Exploration
 - [ ] Videos: Recap: Bandits
 - [ ] Videos: Regret: Measuring the Quality of Exploration
