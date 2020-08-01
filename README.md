@@ -4,7 +4,7 @@ by Andrew Ng, Stanford University,
  - I am using Andrew Ng's starting code and implementing the assignments in my own way. Typically by following the examples in the resources page on Coursera.
 
 ## [Practical Reinforcement Learning](https://github.com/Jadams29/Coursera/tree/master/Practical%20Reinforcement%20Learning)
-by Pavel Shvechikov and Alexander Panin, National Research University Higher School of Economics,[Coursera](https://www.coursera.org/learn/practical-rl/home/info)
+by Pavel Shvechikov and Alexander Panin, National Research University Higher School of Economics, [Coursera](https://www.coursera.org/learn/practical-rl/home/info)
  
  - I am using Pavel Shvechikov and Alexander Panin starting code and implementing the assignments where needed.
 
