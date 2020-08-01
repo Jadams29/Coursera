@@ -1,9 +1,10 @@
 # Machine Learning
-by Pavel Shvechikov and Alexander Panin, National Research University Higher School of Economics, [Coursera](https://www.coursera.org/learn/practical-rl/home/info)
+by Pavel Shvechikov and Alexander Panin, National Research University Higher School of Economics,
+[Coursera](https://www.coursera.org/learn/practical-rl/home/info)
 
 ### Week 1
 #### Welcome
-- [] Videos: Intro: Why should I care?
+- [ ] Videos: Intro: Why should I care?
 - [] Videos: Reinforcement Learning vs All
 - [] Readings: FAQ
 - [] Readings: Primers
